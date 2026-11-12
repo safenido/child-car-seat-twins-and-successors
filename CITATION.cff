@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link to https://www.safenido.fr"
+title: "Child Car Seat Twins And Successors"
+type: dataset
+doi: "10.5281/zenodo.24167315"
+authors:
+  - name: "Safe Nido"
+    website: "https://www.safenido.fr"
+version: "1.0"
+date-released: "2026-11-12"
+license: CC-BY-4.0
+repository-code: "https://github.com/safenido/child-car-seat-twins-and-successors"
+url: "https://www.safenido.fr/"
+keywords:
+  - car-seats
+  - child-safety
+  - product-data
+  - consumer
+  - europe
+  - open-data
